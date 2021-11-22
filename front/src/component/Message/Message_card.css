@@ -1,0 +1,73 @@
+.Message-card-container {
+  width: 40%;
+  height: 100%;
+  /* background-color: lightpink; */
+  border: solid 2px #fb4d4e;
+  border-radius: 30px 30px 30px 30px;
+  float: left;
+
+  margin-left: 6%;
+  margin-top: 3%;
+  cursor: pointer;
+}
+.Message-card-nav-container {
+  margin-top: 2%;
+  width: 90%;
+  height: 25%;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* background-color: rgba(0, 255, 255, 0.103); */
+  float: left;
+}
+.Message-card-nav-producer-container {
+  /* background-color: rgba(255, 166, 0, 0.849); */
+}
+.Message-card-nav-producer-class {
+  float: left;
+  /* background-color: cadetblue; */
+  height: 100%;
+  width: 60%;
+  margin-left: 2%;
+}
+.Message-card-content-container {
+  float: left;
+  width: 80%;
+  height: 50%;
+  margin-left: 10%;
+  margin-right: 10%;
+  /* background-color: darksalmon; */
+}
+.Message-card-title-container {
+  /* background-color: rgba(0, 255, 255, 0.753); */
+}
+.Message-card-title-class {
+  font-size: 15px;
+  text-align: center;
+  /* background-color: rgba(0, 255, 64, 0.226); */
+}
+.Message-card-footer-container {
+  float: left;
+  width: 90%;
+  height: 23%;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* background-color: rgba(0, 255, 255, 0.418); */
+}
+.Message-card-footer-date-container {
+  float: left;
+  width: 38%;
+  height: 100%;
+  /* background-color: blue;   */
+}
+.Message-card-footer-date-class {
+  float: left;
+  width: 80%;
+  height: 100%;
+  background-color: #fb4d4e;
+  margin-left: 20%;
+}
+.Message-card-footer-date-p-class {
+  font-size: 12px;
+  margin-left: 0%;
+  margin-top: 13%;
+}

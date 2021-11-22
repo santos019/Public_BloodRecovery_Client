@@ -1,0 +1,106 @@
+.Message-read-container {
+  width: 80%;
+  /* height: 100%; */
+  /* background-color: aqua; */
+}
+
+.Message-read-nav-container {
+  /* background-color: rgb(72, 255, 0); */
+  float: left;
+  height: 8%;
+  width: 100%;
+  /* background-color: aqua; */
+  border-bottom: solid 4px #fb4d4e;
+}
+
+.Message-read-nav-class {
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 89%;
+  float: left;
+  /* border-bottom: solid 4px #fb4d4e; */
+  /* background-color: rgb(255, 0, 242); */
+}
+
+.Message-read-contents-container {
+  float: left;
+  width: 100%;
+  height: 100%;
+  /* background-color: rgb(255, 102, 0); */
+}
+
+.Message-read-contents-title-container {
+  /* background-color: rgb(0, 26, 255); */
+}
+
+.Message-read-contents-title-class {
+  font-size: 21px;
+}
+
+.Message-read-contents-producer-container {
+  float: left;
+}
+
+.Message-read-contents-producer-class {
+  font-size: 21px;
+  float: left;
+}
+
+.Message-read-contents-content-container {
+  float: left;
+  /* white-space: nowrap; */
+}
+.Message-read-contents-content-class {
+  font-size: 21px;
+  /* background-color: aqua; */
+  /* white-space: nowrap; */
+}
+
+.Message-read-contents-date-container {
+  float: left;
+}
+
+.Message-read-contents-date-class {
+  font-size: 21px;
+  float: left;
+}
+
+.Message-read-footer-container {
+  float: left;
+}
+
+.Message-read-footer-button-class {
+  float: right;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  width: 140px;
+  height: 50px;
+  text-align: center;
+  font-size: 15px;
+  /* border: 3px solid #fb4d4e; */
+  margin-bottom: 8px;
+  margin-top: 4%;
+  font-size: 17px;
+}
+
+.Message-read-footer-button-class:hover {
+  background-color: #cfdce4d5;
+}
+
+.Message-read-goback-bntimg-class {
+  margin-top: 8%;
+  margin-left: 10%;
+  padding-bottom: 8%;
+  width: 40px;
+  height: 43px;
+  float: left;
+  /* padding-left: 15%; */
+  /* background-color: blueviolet; */
+}
+.Message-read-nav-goback {
+  width: 8%;
+  height: 100%;
+  /* background-color: coral; */
+  float: left;
+  /* border-bottom: solid 4px #fb4d4e; */
+}

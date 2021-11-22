@@ -1,0 +1,35 @@
+.Header-nav-class {
+  float: right;
+
+  font-size: 1.2em;
+ 
+  color: white;
+}
+.Header-nav-Login-class:hover {
+  opacity: 0.8;
+}
+.Header-nav-Join-class:hover {
+  opacity: 0.8;
+}
+.Header-nav-Message-class:hover {
+  opacity: 0.8;
+}
+.Header-nav-list-class {
+  float: left;
+  /* background-color: aqua; */
+  width: 300px;
+  padding-right: 1.8em;
+  cursor: pointer;
+
+}
+.Header-nav-Login-class {
+  float: left;
+  padding-right: 1.8em;
+}
+.Header-nav-Join-class {
+  float: left;
+  padding-right: 1.8em;
+}
+.Header-nav-Message-class {
+  float: left;
+}

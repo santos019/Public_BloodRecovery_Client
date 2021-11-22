@@ -1,0 +1,105 @@
+.Point-main-class {
+  width: 100vh;
+}
+.Point-main-container-class {
+  width: 970px;
+  height: 734px;
+  margin: auto;
+
+  /* background-color: #349fdd; */
+}
+.Point-main-nav-container {
+  float: left;
+  height: 1%;
+  width: 100%;
+  border-bottom: solid 4px #fb4d4e;
+}
+.Point-main-nav2 {
+  float: left;
+  height: 20%;
+  width: 100%;
+  font-size: 40px;
+  /* background-color: #4dfbc7; */
+  text-align: center;
+  border-bottom: solid 4px #fb4d4e;
+}
+.Point-main-nav2 p {
+  margin-top: 13px;
+  margin-bottom: 0;
+}
+.Point-main-nav2 b {
+  color: #ff0000;
+}
+.Point-container {
+  border-radius: 12px 12px 12px 12px;
+  border: 2px solid #fae2e2;
+  padding-bottom: 30px;
+}
+.Point-main-Header-container-class {
+  float: left;
+  width: 970px;
+  height: 100%;
+  /* background-color: rgb(197, 228, 61); */
+}
+.Point-current {
+  text-align: right;
+  font-size: 30px;
+}
+.Point-current b {
+  color: #ff0000;
+}
+.Point-main {
+  float: left;
+  height: 100%;
+  width: 100%;
+  margin-top: 5%;
+  /* background-color: rgb(228, 61, 164); */
+}
+
+.Point-breakdown {
+  font-size: 30px;
+}
+
+/* 날짜칸 */
+.Point-main-date {
+  border: 4px solid #fb4d4e;
+  border-radius: 8px 8px 8px 8px;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  font-size: 25px;
+}
+.Point-plus {
+  border: 4px solid #4d76fb;
+  border-radius: 8px 8px 8px 8px;
+  margin: auto;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  font-size: 30px;
+  float: right;
+}
+.Point-minus {
+  border: 4px solid #fb4d4e;
+  border-radius: 8px 8px 8px 8px;
+  margin: auto;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  font-size: 30px;
+  float: right;
+}
+
+.Point-goback-bntimg-class {
+  margin-top: 8%;
+  margin-left: 10%;
+  width: 40px;
+  height: 40px;
+  float: left;
+}
+.Point-nav-goback {
+  width: 8%;
+  height: 100%;
+
+  float: right;
+}

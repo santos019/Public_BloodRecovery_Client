@@ -1,0 +1,59 @@
+.Message-main-container {
+  /* background-color: rgba(0, 255, 255, 0.767); */
+  width: 900ox;
+  height: 900px;
+}
+
+.Message-main-nav-container {
+  /* background-color: rgba(15, 228, 79, 0.89); */
+}
+
+.Message-main-nav-class {
+  /* background-color: rgba(255, 0, 13, 0.836); */
+}
+
+.Message-main-button-container {
+  /* background-color: rgba(17, 0, 255, 0.651); */
+  width: 150px;
+  height: 700px;
+  float: left;
+}
+
+.Message-main-button-show {
+  /* background-color: rgba(162, 0, 255, 0.747); */
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  width: 140px;
+  height: 50px;
+  text-align: center;
+  font-size: 15px;
+  border: 3px solid #fb4d4e;
+  margin-bottom: 8px;
+  margin-top: 4%;
+  font-size: 17px;
+}
+.Message-main-button-show:hover {
+  background-color: #cfdce4d5;
+}
+
+.Message-main-button-delete {
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  width: 140px;
+  height: 50px;
+  text-align: center;
+  font-size: 15px;
+  border: 3px solid #272525;
+  margin-bottom: 8px;
+  margin-top: 4%;
+  font-size: 16px;
+}
+.Message-main-button-delete:hover {
+  background-color: #cfdce4d5;
+}
+
+.Message-main-cardmain-container {
+  /* background-color: rgba(255, 0, 0, 0.685); */
+  width: 80%;
+  float: left;
+}

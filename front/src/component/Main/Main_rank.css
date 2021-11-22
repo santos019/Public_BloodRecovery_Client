@@ -1,0 +1,36 @@
+.Main-rank-class{
+    float: left;
+    margin-top: 0%;
+    margin-left: 0px;
+    /* background-color: rgb(157, 255, 0); */
+    width: 100%;
+
+    
+}
+.Main-rank-img-container{
+float: left;
+    width: 100%;
+    height: 8%;
+    /*overflow: hidden;*/ 
+    
+    /* background-color: gray; */
+}
+.Main-rank-img-imgclass{
+   
+    border-radius: 100%;
+  width: 5em;
+height: 5em;  
+border: 2px solid rgb(243, 81, 81);
+    object-fit: cover;
+    
+}
+.Main-rank-text-container-class{
+    width: 100%;
+}
+.Main-rank-text-class{
+    width: 400px;
+    height: auto;
+    /* background-color: goldenrod; */
+    margin: auto;
+    cursor: pointer;
+}

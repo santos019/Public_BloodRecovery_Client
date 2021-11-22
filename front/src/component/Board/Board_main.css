@@ -1,0 +1,79 @@
+.Board-main-container {
+  /* background-color: rgb(129, 129, 179); */
+  width: 970px;
+  height: 734px;
+  margin: auto;
+}
+
+.Board-main-nav-container {
+  float: left;
+  height: 8%;
+  width: 100%;
+  /* background-color: aqua; */
+  border-bottom: solid 4px #fb4d4e;
+}
+.Board-main-nav-class {
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 45%;
+  float: left;
+  height: 100%;
+  /* background-color: antiquewhite; */
+}
+
+.Board-main-input {
+  margin-top: 16px;
+  height: 25px;
+  width: 120px;
+  float: left;
+  margin-left: 2px;
+  border: solid 2px rgb(236, 138, 138);
+  vertical-align: middle;
+}
+.Board-main-nav-select-class {
+  width: 13%;
+  padding-top: 1.5%;
+  height: 100%;
+  float: left;
+  margin-left: 280px;
+  /* background-color: chartreuse; */
+}
+
+select {
+  border: solid 2px rgb(236, 138, 138);
+  width: 90%;
+  height: 50%;
+}
+select :focus {
+  border-color: red;
+}
+.Board-main-nav-write-class {
+  float: left;
+  width: 8%;
+  height: 100%;
+  /* background-color: cornflowerblue; */
+}
+.Board-main-nav-writeicon-class {
+  width: 35px;
+  margin-left: 10px;
+  margin-top: 10px;
+  /* background-color: coral; */
+}
+.Board-main-cardmain-container {
+  /* float: left; */
+
+  width: 75%;
+  height: 25%;
+  /* display: flex; */
+  flex-wrap: wrap;
+  /* margin-left: 5%; */
+  /* margin-right: 5%; */
+  margin-top: 2%;
+  margin: auto;
+  /* background-color: aqua; */
+}
+.Board-main-onclick {
+  width: 100%;
+  height: 80%;
+  background-color: aquamarine;
+}

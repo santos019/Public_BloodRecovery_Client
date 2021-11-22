@@ -1,0 +1,228 @@
+.Directed-inquire-container {
+  /* background-color: rgb(129, 129, 179); */
+  width: 970px;
+  height: 734px;
+  margin: auto;
+
+  /* background-color: aqua; */
+}
+.Directed-inquire-nav-container {
+  float: left;
+  height: 8%;
+  width: 100%;
+  /* background-color: aqua; */
+  border-bottom: solid 4px #fb4d4e;
+  /* background-color: rgb(12, 74, 128); */
+}
+.Directed-inquire-nav-class {
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 89%;
+  float: left;
+  /* background-color: antiquewhite; */
+}
+.Directed-inquire-content-container {
+  width: 100%;
+  height: 92%;
+  float: left;
+  /* background-color: blue; */
+}
+.Directed-inquire-content-class {
+  margin: auto;
+  /* background-color: rgb(155, 155, 155); */
+  width: 80%;
+  height: 90%;
+  /* height: 70%; */
+  padding-top: 3%;
+}
+
+.Directed-inquire-goback-bntimg-class {
+  margin-top: 8%;
+  margin-left: 10%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  /* background-color: blueviolet; */
+}
+.Directed-inquire-nav-goback {
+  width: 8%;
+  height: 100%;
+  /* background-color: coral; */
+  float: left;
+}
+.Directed-inquire-card-class {
+  width: 100%;
+  float: left;
+  height: auto;
+  /* background-color: darkgoldenrod; */
+  border: 2px solid #fb4d4e;
+  border-radius: 50px 50px 50px 50px;
+}
+.Dircected-inquire-card-total {
+  margin: auto;
+  width: 90%;
+}
+.Directed-inquire-card-nav-class {
+  width: 100%;
+  height: 50px;
+  border-bottom: solid 4px #fb4d4e;
+  /* background-color: rgba(0, 0, 255, 0.075); */
+}
+.Directed-inquire-card-title-class {
+  float: left;
+  margin-top: 3%;
+  width: 75%;
+  /* background-color: aqua; */
+  font-size: 16px;
+}
+.Directed-inquire-card-data-class {
+  float: left;
+  margin-top: 3%;
+  width: 25%;
+  /* background-color: aquamarine; */
+  font-size: 16px;
+}
+
+.Directed-inquire-card-info-class {
+  float: left;
+  width: 100%;
+  height: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  /* background-color: rgb(168, 85, 60); */
+}
+.Directed-inquire-card-info-location {
+  width: 10%;
+  float: left;
+  margin-top: 0.7%;
+  height: 30px;
+  margin-left: 2%;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 10px;
+  background-color: #fed4d4;
+}
+.Directed-inquire-card-info-bloodtype {
+  width: 10%;
+  float: left;
+  margin-top: 0.7%;
+  height: 30px;
+  margin-left: 2%;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 17px;
+  background-color: #fed4d4;
+  color: #fb4d4e;
+  text-align: center;
+}
+.Directed-inquire-card-context-class {
+  padding-top: 1%;
+  padding-bottom: 10%;
+  margin: auto;
+  height: auto;
+  width: 100%;
+  word-wrap:break-word; word-break:break-all;
+  font-size: 16px;
+  float: left;
+}
+.Directed-inquire-card-context-classpre{
+  white-space:pre-line;
+
+}
+.Directed-inquire-card-context-img-class {
+  width: 100%;
+  height: 10%;
+  /* background-color: #fb4d4e; */
+}
+.Directed-inquire-cardset-img {
+  width: 200px;
+
+  /* background-color: rgb(63, 158, 158); */
+}
+.Directed-inquire-card-context-margin {
+  width: 200px;
+  margin: auto;
+}
+.Directed-inquire-card-writer-container {
+  float: right;
+  margin-top: 0%;
+  width: 17%;
+  height: 80%;
+  /* background-color: #fb4d4e; */
+}
+.Directed-inquire-card-writer-icon {
+  float: left;
+  margin-top: 0%;
+  height: 80%;
+  width: 30%;
+  /* background-color: aqua; */
+}
+.Directed-inquire-card-writername-class {
+  margin-top: 5%;
+  float: left;
+  /* background-color: blue; */
+  width: 70%;
+}
+.Directed-inquire-card-footer-class {
+  height: 50px;
+  /* background-color: blueviolet; */
+}
+.Directed-inquire-card-footer-status {
+  margin: auto;
+  height: 70%;
+  width: 10%;
+  border-radius: 8px 8px 8px 8px;
+  background-color: #fed4d4;
+}
+.Directed-inquire-footer-container {
+  width: 100%;
+  float: left;
+  height: 40%;
+  margin-top: 3%;
+  /* background-color: rgb(55, 0, 255); */
+}
+
+.Directed-inquire-card-footer-statueIMG {
+  float: left;
+  width: 25px;
+  margin-top: 5px;
+}
+.Directed-inquire-card-footer-statustext {
+  float: left;
+  font-size: 13px;
+  margin-top: 6px;
+}
+.Directed-inquire-footer-applicant {
+  float: left;
+  width: 100%;
+  margin-bottom: 5%;
+  height: auto;
+
+  text-align: center;
+  /* background-color: aqua; */
+
+  color: #fb4d4e;
+}
+.Directed-inquire-footer-appname {
+  /* background-color: beige; */
+}
+.Directed-inquire-footer-mypost {
+  width: 100%;
+  height: 15%;
+  font-size: 17px;
+}
+.Directed-inquire-footer-repost {
+  width: 8%;
+  float: right;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+.Directed-inquire-footer-delete {
+  width: 8%;
+  float: right;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+.Directed-inquire-card-location1 {
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+}

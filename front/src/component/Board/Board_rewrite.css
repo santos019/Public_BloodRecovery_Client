@@ -1,0 +1,228 @@
+.Board-rewrite-container {
+  /* background-color: rgb(129, 129, 179); */
+  width: 970px;
+  height: 734px;
+  margin: auto;
+  /* 
+  background-color: aqua; */
+}
+.Board-rewrite-nav-container {
+  float: left;
+  height: 8%;
+  width: 100%;
+  /* background-color: aqua; */
+  border-bottom: solid 4px #fb4d4e;
+  /* background-color: rgb(12, 74, 128); */
+}
+.Board-rewrite-nav-class {
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 89%;
+  float: left;
+  /* background-color: antiquewhite; */
+}
+.Board-rewrite-content-container {
+  width: 100%;
+  height: 92%;
+  float: left;
+  /* background-color: blue; */
+}
+.Board-rewrite-content-class {
+  margin: auto;
+  /* background-color: rgb(155, 155, 155); */
+  width: 80%;
+  height: 90%;
+  /* height: 70%; */
+  padding-top: 3%;
+}
+
+.Board-rewrite-goback-bntimg-class {
+  margin-top: 8%;
+  margin-left: 10%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  /* background-color: blueviolet; */
+}
+.Board-rewrite-nav-goback {
+  width: 8%;
+  height: 100%;
+  /* background-color: coral; */
+  float: left;
+}
+.Board-rewrite-card-class {
+  width: 100%;
+  float: left;
+  height: 45%;
+  padding: auto;
+  /* background-color: darkgoldenrod; */
+  border: 2px solid #c2c2c29d;
+  border-radius: 50px 50px 50px 50px;
+}
+.Dircected-rewrite-card-total {
+  margin: auto;
+  width: 90%;
+}
+.Board-rewrite-card-nav-class {
+  width: 100%;
+  height: 50px;
+  border-bottom: solid 2px #b3b3b3;
+  /* background-color: rgba(0, 0, 255, 0.075); */
+}
+.Board-rewrite-card-title-class {
+  float: left;
+  margin-top: 3%;
+  margin-left: 3%;
+  width: 65%;
+  /* background-color: aqua; */
+  font-size: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.247);
+}
+.Board-rewrite-card-data-class {
+  margin-left: 1%;
+  float: left;
+  margin-top: 3%;
+  width: 32%;
+  height: 50%;
+  /* background-color: rgb(13, 122, 86); */
+  font-size: 16px;
+}
+
+.Board-rewrite-card-context-class {
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin: auto;
+  height: auto;
+  width: 100%;
+  /* background-color: rgb(0, 255, 13); */
+  font-size: 16px;
+}
+
+.Board-rewrite-card-footer-class {
+  height: 0px;
+  /* background-color: blueviolet; */
+}
+
+.Board-rewrite-footer-container {
+  width: 100%;
+  float: left;
+  height: 40%;
+  margin-top: 2%;
+  /* background-color: rgb(0, 195, 255); */
+}
+
+.Board-rewrite-card-context-input {
+  width: 95%;
+  height: 170px;
+  margin-left: 2%;
+  border: 1px solid rgba(0, 0, 0, 0.247);
+  /* background-color: #fb4d4e; */
+}
+
+input[type="text"] {
+  width: 100%;
+  border: 1px solid #fb4d4e;
+  text-align: center;
+}
+.Board-rewrite-calender1 {
+  width: 90px;
+  /* background-color: #883939; */
+  float: left;
+}
+.Board-rewrite-calender2 {
+  width: 90px;
+  /* background-color: #883939; */
+  float: left;
+}
+
+.Board-rewrite-card-wow {
+  font-size: 20px;
+  /* background-color: rgba(240, 248, 255, 0.041); */
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  float: left;
+  margin-left: 3%;
+}
+
+.Board-rewrite-footer-upload-container {
+  width: 100%;
+  padding-left: 3%;
+
+  /* background-color: #fb4d4e; */
+}
+.Board-rewrite-footer-upload {
+  width: 55%;
+  margin: auto;
+  /* background-color: #e0c3c3; */
+}
+
+.Board-rewrite-btn-container {
+  width: 100%;
+  height: 25%;
+  /* background-color: #398588; */
+}
+.Board-rewrite-btn-class {
+  width: 20%;
+  height: 100%;
+  margin: auto;
+}
+
+.Board-rewrite-status-container {
+  width: 100%;
+
+  height: 10%;
+  margin-bottom: 3%;
+}
+.Board-rewrite-status-class {
+  width: 21%;
+  height: 100%;
+
+  margin: auto;
+  font-size: 14px;
+}
+.Board-rewrite-status-ongoging {
+  float: left;
+  height: 100%;
+  width: 43%;
+  background-color: #fed4d4;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+}
+.Board-rewrite-status-stop {
+  float: right;
+  height: 100%;
+  width: 46%;
+  background-color: #f6f6f6;
+  border-radius: 5px 5px 5px 5px;
+  color: rgba(0, 0, 0, 0.116);
+  cursor: pointer;
+}
+.Board-rewrite-status-ongogingnot {
+  float: left;
+  height: 100%;
+  width: 43%;
+  background-color: #f6f6f6;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.116);
+}
+.Board-rewrite-status-stopnot {
+  float: right;
+  height: 100%;
+  width: 46%;
+  background-color: #fed4d4;
+  border-radius: 5px 5px 5px 5px;
+  color: black;
+  cursor: pointer;
+}
+.Board-rewrite-status-img {
+  float: left;
+  height: 80%;
+  margin-top: 5%;
+  /* background-color: rgb(255, 0, 200); */
+}
+.Board-rewrite-status-ongoging1 {
+  width: 100%;
+  height: 100%;
+}

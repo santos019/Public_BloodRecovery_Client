@@ -1,0 +1,189 @@
+.rank-main-container {
+  width: 970px;
+  height: 734px;
+  margin: auto;
+  /* background-color: aqua; */
+}
+.rank-main-nav-container {
+  float: left;
+  width: 100%;
+  height: 8%;
+  /* background-color: rgb(119, 133, 128); */
+  border-bottom: solid 4px #fb4d4e;
+}
+.rank-main-nav-class {
+  float: left;
+  width: 14%;
+  height: 100%;
+  /* background-color: azure; */
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.rank-main-myrank-container {
+  width: 100%;
+  height: 5%;
+  /* background-color: blue; */
+  float: left;
+  margin-top: 5%;
+}
+.rank-main-myrank-class {
+  width: 70%;
+  margin: auto;
+  height: 100%;
+  /* background-color: antiquewhite; */
+  color: #fb4d4e;
+  font-size: 23px;
+  text-align: center;
+}
+.rank-main-all-container {
+  width: 100%;
+  height: 65%;
+  /* background-color: rgb(0, 255, 17); */
+  float: left;
+}
+.rank-main-all-top-class {
+  width: 50%;
+  height: 100%;
+  padding-top: -0%;
+  /* background-color: cadetblue; */
+  margin-left: 25%;
+}
+.rank-1 {
+  width: 100%;
+
+  /* background-color: aliceblue; */
+}
+.rank-2 {
+  width: 100%;
+
+  /* background-color: aquamarine; */
+}
+.rank-3 {
+  width: 100%;
+
+  /* background-color: blue; */
+}
+.rank-1-p {
+  /* background-color: #fb4d4e; */
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+}
+.rank-2-p {
+  /* background-color: #fb4d4e; */
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+}
+
+.rank-3-p {
+  /* background-color: #fb4d4e; */
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+}
+
+.rank-1-container {
+  width: 160px;
+  height: 50px;
+  margin-left: 150px;
+  margin-top: 12px;
+  /* background-color: blueviolet; */
+  position: absolute;
+}
+.rank-2-container {
+  width: 160px;
+  height: 30px;
+  margin-left: 0%;
+  margin-top: 72px;
+  /* background-color: rgb(195, 255, 0); */
+  position: absolute;
+}
+.rank-3-container {
+  width: 160px;
+  height: 50px;
+  margin-left: 300px;
+  margin-top: 100px;
+  position: absolute;
+  /* background-color: coral; */
+}
+.rank-main-all-other-container {
+  width: 100%;
+  margin-top: -10%;
+  /* background-color: antiquewhite; */
+  float: left;
+}
+.rank-main-all-other-class {
+  margin: auto;
+  font-size: 25px;
+  width: 40%;
+  margin-right: 255px;
+  background-color: #fb4d4e;
+
+  /* text-align: center; */
+}
+
+.rank-bottom {
+  /* background-color: blueviolet; */
+  text-align: center;
+  padding: 5%;
+  font-size: 20px;
+  color: coral;
+}
+.rank-3-img-container {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 2px solid #fb4d4e;
+  margin: auto;
+  overflow: hidden;
+  /* background-color: aquamarine; */
+}
+.rank-3-img {
+  width: 100%;
+  height: 100%;
+}
+
+.rank-3-img {
+  /* width: 65px; */
+}
+
+.profile-img1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  border: 2px solid #fb4d4e;
+  /* margin: auto; */
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-right: 5px;
+}
+
+.profile-img2 {
+  width: 65px;
+  /* background-color: aqua; */
+}
+
+.rankall {
+  background-color: aqua;
+  margin-top: 10%;
+}
+.rank-other-p {
+  width: 250px;
+  /* background-color: #fb4d4e; */
+  float: left;
+  white-space: nowrap;
+}
+
+.point-css {
+  color: #fb4d4e;
+}
+
+.userRank-css {
+  color: #fb4d4e;
+  /* white-space: nowrap; */
+  background-color: aquamarine;
+  width: 20px;
+}

@@ -1,0 +1,323 @@
+.Directed-rewrite-container {
+    /* background-color: rgb(129, 129, 179); */
+    width: 970px;
+    height: 734px;
+    margin: auto;
+/* 
+    background-color: aqua; */
+  }
+  .Directed-rewrite-nav-container {
+    float: left;
+    height: 8%;
+    width: 100%;
+    /* background-color: aqua; */
+    border-bottom: solid 4px #fb4d4e;
+    /* background-color: rgb(12, 74, 128); */
+  }
+  .Directed-rewrite-nav-class {
+    margin-left: 3%;
+    margin-top: 1%;
+    width: 89%;
+    float: left;
+    /* background-color: antiquewhite; */
+  }
+  .Directed-rewrite-content-container{
+
+    width: 100%;
+    height: 92%;
+    float: left;
+    /* background-color: blue; */
+  }
+  .Directed-rewrite-content-class{
+    margin: auto;
+    /* background-color: rgb(155, 155, 155); */
+    width: 80%;
+    height: 90%;
+    /* height: 70%; */
+    padding-top: 3%;
+    
+  }
+
+  .Directed-rewrite-goback-bntimg-class{
+    margin-top: 8%;
+    margin-left: 10%;
+    width: 40px;
+    height: 40px;
+    float: left;
+    /* background-color: blueviolet; */
+  }
+  .Directed-rewrite-nav-goback{
+    width: 8%;
+    height: 100%;
+    /* background-color: coral; */
+    float: left;
+  }
+  .Directed-rewrite-card-class{
+    width: 100%;
+    float: left;
+    height: auto;
+    /* background-color: darkgoldenrod; */
+    border: 2px solid  #c2c2c29d;
+    border-radius: 50px 50px 50px 50px;
+  }
+  .Dircected-rewrite-card-total{
+
+    margin: auto;
+    width: 90%;
+  }
+  .Directed-rewrite-card-nav-class{
+    width: 100%;
+    height: 50px;
+    border-bottom: solid 2px #b3b3b3;
+    /* background-color: rgba(0, 0, 255, 0.075); */
+  }
+  .Directed-rewrite-card-title-class{
+    float: left;
+    margin-top: 3%;
+    width: 65%;
+    /* background-color: aqua; */
+    font-size: 16px;
+    border: 1px solid rgba(0, 0, 0, 0.247) ; 
+    
+
+  }
+  .Directed-rewrite-card-data-class{
+    margin-left: 1%;
+    float: left;
+    margin-top: 3%;
+    width: 32%;
+    height: 50%;
+    /* background-color: rgb(13, 122, 86); */
+    font-size: 16px;
+  }
+ 
+ 
+
+  .Directed-rewrite-card-context-class{
+    
+    padding-top: 1%;
+    padding-bottom: 2%;
+    margin: auto;
+    height: auto;
+    width: 100%;
+    /* background-color: rgb(0, 255, 13); */
+    font-size: 16px;
+    
+  }
+
+  .Directed-rewrite-card-footer-class{
+    height: 0px;
+    /* background-color: blueviolet; */
+  }
+ 
+  .Directed-rewrite-footer-container{
+      width: 100%;
+      float: left;
+      height: 40%;
+      margin-top: 2%;
+      /* background-color: rgb(0, 195, 255); */
+  }
+  
+  
+
+
+  
+  .Directed-rewrite-card-context-input{
+      width: 100%;
+      height: 170px;
+      border: 1px solid rgba(0, 0, 0, 0.247) ; 
+      /* background-color: #fb4d4e; */
+  }
+  /*//////////////////////////////////////////*/
+  /* .react-datepicker__navigation{
+background-color: aqua;
+
+  }
+.react-datepicker__navigation--next{
+
+background-color: #e6c4c4;
+width: 60px;
+border-radius: 10px 10px 10px 10px;
+font-size: 10px;
+margin-left: 25px;
+border: 2px solid#fb4d4e;
+}
+
+.react-datepicker__navigation--previous{
+
+    background-color:#e6c4c4;;
+    width: 60px;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 10px;
+    margin-left: 30px;
+    border: 2px solid#fb4d4e;
+}
+ .react-datepicker__month-container{
+    width: 200px;
+    height: 190px;
+    background-color: #e0c3c3;
+    border-radius: 15px 15px 15px 15px;
+    
+ }
+ .react-datepicker__month{
+     width: 90%;
+     margin: auto;
+     height: 100%;
+
+ }
+ .react-datepicker__day-names{
+     background-color: rgb(57, 100, 100);
+     width: 100%;
+     display: flex;
+     text-align: center;
+ }
+ .react-datepicker__day-name{
+     background-color: antiquewhite;
+     width: 100%;
+ }
+ .react-datepicker__week{
+
+    background-color: aliceblue;
+    width: 100%;
+    display: flex;
+    
+ }
+
+ 
+.react-datepicker__header {
+    width: 90%;
+    margin: auto;
+}
+ div[class^="react-datepicker__day react-datepicker__day--"]{
+     background-color: rgb(236, 191, 214);
+     width: 100%;
+     text-align: center;
+ }*/
+/* .react-datepicker__input-container{
+    float: left;
+    background-color: #0026ff;
+   width: 100%;
+} */
+ 
+ input[type=text]{
+    
+    width: 100%;
+    border: 1px solid #fb4d4e;
+    text-align: center;
+   
+
+}
+.Directed-rewrite-calender1{
+    width: 90px;
+    /* background-color: #883939; */
+    float: left;
+}
+.Directed-rewrite-calender2{
+    width: 90px;
+    /* background-color: #883939; */
+    float: left;
+}
+
+.Directed-rewrite-card-wow{
+    font-size: 20px;
+    /* background-color: rgba(240, 248, 255, 0.041); */
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    float: left;
+    margin-left: 3%;
+}
+/* .react-datepicker__current-month{
+
+    text-align: center;
+
+} */
+.Directed-rewrite-footer-upload-container{
+
+    width: 100%;
+    
+    /* background-color: #fb4d4e; */
+}
+.Directed-rewrite-footer-upload{
+    width: 55%;
+    margin: auto;
+    /* background-color: #e0c3c3; */
+}
+
+
+
+
+.Directed-rewrite-btn-container{
+    width: 100%;
+    height: 25%;
+    /* background-color: #398588; */
+}
+.Directed-rewrite-btn-class{
+    width: 20%;
+    height: 100%;
+    margin: auto;
+}
+
+.Directed-rewrite-status-container{
+
+    width: 100%;
+
+    height: 10%;
+    margin-bottom: 3%;
+}
+.Directed-rewrite-status-class{
+width: 21%;
+height: 100%;
+  
+    margin: auto;
+    font-size: 14px;
+}
+.Directed-rewrite-status-ongoging{
+    float: left;
+    height: 100%;
+    width: 43%;
+    background-color: #fed4d4;
+    border-radius: 5px 5px 5px 5px;
+    cursor: pointer;
+}
+.Directed-rewrite-status-stop{
+    float: right;
+    height: 100%;
+    width: 46%;
+    background-color: #F6F6F6;
+    border-radius: 5px 5px 5px 5px;
+    color:rgba(0, 0, 0, 0.116);
+    cursor: pointer;
+
+}
+.Directed-rewrite-status-ongogingnot{
+  float: left;
+  height: 100%;
+  width: 43%;
+  background-color: #F6F6F6;
+  border-radius: 5px 5px 5px 5px;
+  cursor: pointer;
+  color:rgba(0, 0, 0, 0.116);
+}
+.Directed-rewrite-status-stopnot{
+  float: right;
+  height: 100%;
+  width: 46%;
+  background-color: #fed4d4;
+  border-radius: 5px 5px 5px 5px;
+  color:black;
+  cursor: pointer;
+
+}
+.Directed-rewrite-status-img{
+
+    float: left;
+    height: 80%;
+    margin-top: 5%;
+    /* background-color: rgb(255, 0, 200); */
+   
+}
+.Directed-rewrite-status-ongoging1{
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,231 @@
+.Join-userdata-class{
+
+    width: 100%;
+    /* background-color: blueviolet; */
+    /* margin-left: 30%; */
+    margin-top: 2%;
+    height: 300px;
+    
+    /* text-align:center */
+    
+}
+.Join-usesrdata-nickname {
+    float: left;
+     /*background-color: rgb(136, 27, 112);*/ 
+   width: 100%;
+  
+   margin: auto;
+}
+.Join-userdata-nickname-text-class{
+    float: left;
+
+    /*버튼과의간격...*/
+ margin-right: 0%;
+ width: 90%;
+ /* background-color: cadetblue; */
+
+}
+.Join-userdata-button-class1{
+      width: 7em; 
+    height: 2.0em;
+    float: right;
+    margin-top: -30px;
+    margin-right: 11px;
+    font-size: 0.7em;
+    text-align: center;
+}
+.Join-userdata-button-class{
+   
+     width: 7em; 
+    height: 2.0em;
+    float: right;
+    margin-top: -30px;
+    margin-right: 50px;
+    font-size: 0.7em;
+    text-align: center;
+/*     background-color: aquamarine; */
+}
+/* .Join-usesrdata-nickname .Join-usesrdata-id-class .Join-usesrdata-password .Join-usesrdata-passwordconfirm .Join-usesrdata-name .Join-usesrdata-resisternumber{
+    width: 100%;
+    background-color: brown;
+} */
+.Join-usesrdata-id-class{
+   
+    float:left;
+    width: 100%;
+
+}
+.Join-userdata-notice-class{
+
+    font-size: 1px;
+  
+    color: rgb(133, 134, 134);
+    width: 200px; 
+    margin-top: 6px;
+    margin-left: 85%;
+
+}
+.Join-userdata-notice2-class{
+    font-size: 1px;
+   
+    margin-left: 85%;
+    width: 200px; 
+    margin-top: 8px;
+
+  
+}
+
+.Join-userdata-notice3-class{
+
+    font-size: 1px;
+    margin-top: 6px;
+ 
+    width: 200px;
+    float: left;
+    margin-left: 350px;
+    margin-top: -30px;
+  
+}
+.Join-userdata-notice4-class{
+
+    font-size: 1px;
+    margin-top: 6px;
+  
+    width: 200px;
+    float: left;
+    margin-left: 350px;
+    margin-top: -30px;
+  
+}
+.Join-userdata-notice5-class{
+
+    font-size: 1px;
+    margin-top: 6px;
+  
+    width: 200px;
+    float: left;
+    margin-left: 350px;
+    margin-top: -30px;
+  
+}
+input[type= text1] :not(.Directed-main-input){
+    margin-left: 2px;
+    border:solid 2px rgb(236, 138, 138);
+    vertical-align: middle;
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+}
+input[type= text1]:hover{
+    border:solid 2px rgb(236, 138, 138);
+}
+.swal-button--confirm:active {
+    background: #0a0;
+}
+.swal-button--cancel:active {
+    background: #aaa;
+}
+/* 클릭시버튼없애기 */
+input:focus {outline:none;}
+.Textbox{
+
+    display: flex;
+    padding: 5px 10px 10px 10px;
+    /* background-color: blue; */
+    /* width: 70%; */
+    width: 220px;
+}
+.Textbox-name-class{
+    width: 400px;
+    height: 20px;
+    /* background-color: rgb(138, 25, 59); */
+    font-size: 14px;
+    text-align: right;
+    padding-right: 5px;
+    
+}
+.Textbox-class{
+    width: 6vw;
+}
+.Textbox1-class
+{
+    width: 2.5vw;
+
+}
+.Join-userdata-register-p-class{
+    font-size: 1px;
+    width: 1vw;
+    margin-left: 3px;
+    margin-right: 1px;
+}
+.Join-userdata-complete-btn-container-class{
+
+    float: left;
+    width: 100%;
+    margin-top: 2%;
+    /* background-color: rgb(14, 87, 42); */
+}
+.Join-userdata-complete-btn-class{
+    /*common버튼 크기가 7em이라 맞춰줌*/
+    width: 7em;
+    text-align: center;
+    margin: auto;
+     /* background-color: #6d4dfb; */
+}
+.Join-checkbox-class input[type="checkbox"]{
+   
+    display: none;
+}
+.Join-checkbox-class input[type="checkbox"].Join-checkbox-input-class + label:before{
+    display: inline-block;
+    
+    content: '';
+    width: 0.8em; 
+    height: 0.8em;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(252, 250, 250);    
+    margin: 0em -8em -0.1em 0em;
+    }
+.Join-checkbox-class input[type="checkbox"].Join-checkbox-input-class + label:after{
+    position: absolute;
+    left: 1px;
+    content: '✔'; /* 체크 마크 ASCii 문자 */
+    font-size: 2.0em;
+    line-height: 0;
+    color: rgb(201, 71, 71);
+    transition: all .3s;
+   
+}
+[type="checkbox"].Join-checkbox-input-class + label:after { /* 기본 상태 - 투명에 크기 0 */
+    opacity: 0;
+    transform: scale(0);
+}
+[type="checkbox"]:checked.Join-checkbox-input-class + label:after { /* 체크 상태 - 불투명에 크기 1 */
+    opacity: 1;
+    transform: scale(1);
+}
+.Join-checkbox-input-class + label{
+    position: relative;
+}
+
+.Join-checkbox-input-class{
+    width: 50%;
+ 
+}
+.Join-checkbox-class{
+  
+    width: 320px;
+
+}
+
+.Join-checkbox-text-class{
+    width: 50%;
+    margin-left: 65%;
+    font-size: 0.5em;
+    float: left;
+}
+.swal2-popup{
+width: 100px;
+}
+.swal2-styled {
+background-color: rgb(189, 108, 2);
+
+}

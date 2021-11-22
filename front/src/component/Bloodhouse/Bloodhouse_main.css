@@ -1,0 +1,322 @@
+.Bloodhouse-main-container {
+    width: 970px;
+    height: 734px;
+    margin: auto;
+}
+
+.Bloodhouse-nav-container {
+    float: left;
+    height: 8%;
+    width: 100%;
+    border-bottom: solid 4px #fb4d4e;
+}
+
+.Bloodhouse-nav-class {
+    margin-left: 3%;
+    margin-top: 1%;
+    width: 45%;
+    float: left;
+    height: 100%;
+}
+
+.Bloodhouse-content-container {
+    width: 100%;
+    height: 82%;
+    float: left;
+}
+
+.Bloodhouse-content-class {
+    width: 80%;
+    margin-left: 10%;
+    height: 100%;
+    float: left;
+}
+
+.Bloodhouse-content-where-container {
+   
+    width: 100%;
+    float: left;
+    height: 10%;
+    margin-top: 30px;
+}
+.Bloodhouse-content-selecthouse{
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+    float: left;
+    height: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(182, 179, 179);
+    
+}
+.Bloodhouse-content-text {
+    width: 100%;
+    height: 29px;
+    float: left;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.Bloodhouse-content-when-container {
+    width: 100%;
+    float: left;
+    height: 330px;
+    margin-top: 25px;
+}
+
+.Bloodhouse-content-calendar-class {
+    
+    width: 98%;
+    float: left;
+    height: 270px;
+    padding-left: 2%;
+
+  
+}
+.Bloodhouse-content-when-big{
+    width: 50%;
+
+    float: left;
+}
+.react-calendar {
+    width: 348px;
+    height: auto;
+    padding: 3%;
+    border-radius: 20px;
+    /* max-width: 100%; */
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+  }
+  .react-calendar--doubleView {
+    width: 700px;
+  }
+  .react-calendar--doubleView .react-calendar__viewContainer {
+    display: flex;
+    margin: -0.5em;
+  }
+  .react-calendar--doubleView .react-calendar__viewContainer > * {
+    width: 50%;
+    margin: 0.5em;
+  }
+  .react-calendar,
+  .react-calendar *,
+  .react-calendar *:before,
+  .react-calendar *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .react-calendar button {
+    margin: 0;
+    border: 0;
+    outline: none;
+  }
+  .react-calendar button:enabled:hover {
+    cursor: pointer;
+  }
+  .react-calendar__navigation {
+    height: 10px;
+    margin-bottom: 1em;
+    width: 100%;
+    padding-left: 10%;
+    /* background-color: #76baff; */
+  }
+  .react-calendar__navigation button {
+    min-width: 44px;
+    background: none;
+  }
+  .react-calendar__navigation button:enabled:hover,
+  .react-calendar__navigation button:enabled:focus {
+    background-color: #e6e6e6;
+  }
+  .react-calendar__navigation button[disabled] {
+    background-color: #f0f0f0;
+  }
+  .react-calendar__month-view__weekdays {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.75em;
+  
+  }
+  .react-calendar__month-view__weekdays__weekday {
+    padding: 0.5em;
+    
+  }
+  .react-calendar__month-view__weekNumbers {
+    font-weight: bold;
+  }
+  .react-calendar__month-view__weekNumbers .react-calendar__tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75em;
+    padding: calc(0.75em / 0.75) calc(0.5em / 0.75);
+    
+  }
+  .react-calendar__month-view__days__day--weekend {
+    color: #d10000;
+    
+  
+  }
+  .react-calendar__month-view__days__day--neighboringMonth {
+    color: #757575;
+  }
+  .react-calendar__year-view .react-calendar__tile,
+  .react-calendar__decade-view .react-calendar__tile,
+  .react-calendar__century-view .react-calendar__tile {
+    padding: 2em 0.5em;
+  }
+  .react-calendar__tile {
+    max-width: 100%;
+    text-align: center;
+    padding: 0.75em 0.5em;
+    background: none;
+    /* background-color: #1087ff; */
+    height: 35px;
+  }
+  .react-calendar__tile:disabled {
+    background-color: #f0f0f0;
+  }
+  .react-calendar__tile:enabled:hover,
+  .react-calendar__tile:enabled:focus {
+    background-color: #e6e6e6;
+  }
+  .react-calendar__tile--now {
+    background: #ebdfdf;
+  }
+  .react-calendar__tile--now:enabled:hover,
+  .react-calendar__tile--now:enabled:focus {
+    background: #ebdfdf;
+  }
+  .react-calendar__tile--hasActive {
+    background: #76baff;
+  }
+  .react-calendar__tile--hasActive:enabled:hover,
+  .react-calendar__tile--hasActive:enabled:focus {
+    background: #a9d4ff;
+  }
+  .react-calendar__tile--active {
+    background: #fd6f71;
+    color: white;
+  }
+  .react-calendar__tile--active:enabled:hover,
+  .react-calendar__tile--active:enabled:focus {
+    background: #fd6f71;
+    border-radius: 50%;
+  }
+  .react-calendar--selectRange .react-calendar__tile--hover {
+    background-color: #fd6f71
+  }
+
+.Bloodhouse-content-time-class {
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 4%;
+    height: 80%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+    border-radius: 20px;
+}
+.Bloodhouse-content-time-am{
+
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 17px;
+    color: #fb4d4e;
+
+}
+.Bloodhouse-content-time-amtime{
+    float: left;
+    width: 90%;
+    margin-left: 5%;
+    height: 31%;
+}
+.Bloodhouse-content-time-pmtime{
+
+    float: left;
+    width: 90%;
+    margin-left: 5%;
+    height: 45%;
+
+}
+.Bloodhouse-content-time-pm{
+    
+    width: 90%;
+    margin-left: 5%;
+    font-size: 17px;
+    color: #fd6f71;
+}
+
+#Bloodhousetime{
+    width: 23%;
+    height: 25px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    background-color: #ffffff;
+    float: left;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+    cursor: pointer;
+    font-size: 13px;
+   
+
+}
+.Bloodhousetimetext{
+    margin-top: 2px;
+    
+}
+.Bloodhouse-content-bloodtype-container {
+    width: 100%;
+    height: 20%;
+    float: left;
+}
+
+.Bloodhouse-content-bloodtype-button-class {
+    width: 90%;
+    height: 100%;
+    margin-left: 2%;
+
+}
+#Bloodhousebloodtype{
+    font-size: 13px;
+    height: 25%;
+    padding-top: 4px;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    /* line-height:px; */
+    float: left;
+    width: 10%;
+    margin-left: 2.5%;
+    background-color: #ffffff;
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+}
+.bloodtext{
+
+
+    width: 100%;
+    margin-top: 3%;
+}
+.Bloodhouse-footer-container {
+    width: 100%;
+    height: 10%;
+    float: left;
+
+}
+
+.Bloodhouse-footer-class {
+    width: 10%;
+    height: 75%;
+    text-align: center;
+    margin: auto;
+}
+
+.Bloodhouse-footer-button-class {
+}

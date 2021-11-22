@@ -1,0 +1,101 @@
+@font-face {
+  font-family: "Dongle-Regular";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108_2@1.0/Dongle-Regular.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "GowunDodum-Regular";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunDodum-Regular.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+.App {
+  text-align: center;
+  width: 100vh;
+}
+body {
+  background-image: url("./Img/bgimg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "GowunDodum-Regular";
+  
+}
+pre {
+  font-family: "GowunDodum-Regular";
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* .Main_list_class{
+float: left;
+  width: 20%;
+  height: 20%;
+  margin-left: -18%;
+  margin-top: 30%;
+  
+  background-color: #61dafb;
+} */
+/* .Main_nav_class{
+  margin-top: 10px !important;
+  float: left;
+  margin-left: 80%;
+  background-color: aqua;
+  z-index: 1000;
+  position: fixed;
+}
+ .Main_nav_login_class{
+
+  width: 100px;
+  height: 50px;
+  background-color: #7bff00;
+  margin-right: 10px;
+
+  float: left;
+}
+.Main_nav_join_class{
+  width: 100px;
+  height: 50px;
+  background-color: #7bff00;
+
+ 
+  float: left;
+
+}  */
+/* .Main_list_class{
+margin-top: 500px;
+
+} */

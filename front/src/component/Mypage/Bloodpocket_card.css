@@ -1,0 +1,30 @@
+.Bloodpocket-card-container{
+
+    width: 100%;
+    height: 80%;
+    border-radius: 20px;
+    border: 4px solid black;
+    margin-top: 2.5%;
+    /* padding-top: 5%; */
+   
+}
+
+    .Bloodpocket-card-codenumber{
+        height: 10%;
+        width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+        margin-top: 3%;
+        background-color: rgb(241, 222, 220);
+        font-size: 11px;
+        text-align: center;
+    }
+    .Bloodpocket-card-context{
+    
+        width: 90%;
+        height: 80%;
+        margin-right: 5%;
+        margin-left: 5%;
+        background-color: rgb(255, 255, 255);
+    
+    }

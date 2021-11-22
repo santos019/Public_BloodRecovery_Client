@@ -1,0 +1,107 @@
+.Join-main-container-class{
+
+   
+    width: 970px;
+    height: 734px;
+    margin: auto;
+  
+    /* background-color: aqua; */
+
+}
+
+.Join-main-title-container-class{
+
+    width: 100%;
+    /* background-color: burlywood; */
+    float: left;
+}
+
+.Join-main-title-class{
+    
+    left: 50%;
+    /* background-color: blue; */
+   width: 180px;
+   margin: auto;
+   /*밑줄이랑 핏방울과의 간격*/
+   padding-bottom: 0.5%;
+   border-bottom: solid 4px #fb4d4e;
+}
+.Join-main-low-info-container-class{
+
+    float: left;
+    width: 100%;
+    height: 60%;
+    /* background-color: brown; */
+
+}
+.Join-main-low-info-class{
+
+    font-size: 0.3em;
+    color: rgb(177, 177, 177);
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    
+    /* background-color: blueviolet; */
+}
+.Join-main-low-data-container-class{
+float: left;
+width: 100%;
+/* background-color: cadetblue; */
+
+
+}
+.Join-main-low-data-class{
+
+    margin-left: 25%;
+    margin-right: 25%;
+    /* background-color: darkgoldenrod; */
+}
+/*.Join-main-low-data-class{
+     background-color: brown; 
+    border: 3px solid red;
+    border-radius: 30px 30px 30px 30px;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 30%;
+}
+*/
+.Join-main-low-radiobox-container-class{
+float: left;
+    width: 100%;
+    /* background-color: darkkhaki; */
+}
+.Join-main-low-radiobox-class{
+
+    /* background-color: blanchedalmond; */
+    width: 20%;
+    margin: auto;
+    margin-top: 1%;
+}
+.Join-main-userdata-container-class{
+    float: left;
+    width: 100%;
+    /* background-color: rgb(189, 107, 127); */
+}
+.Join-main-userdata-class{
+    margin-left: 30%;
+    margin-right: 30%;
+    /* background-color: blanchedalmond; */
+}
+.Join-main-btn-container-class{
+
+    float: left;
+    width: 100%;
+    margin-top: 2%;
+    /* background-color: rgb(14, 87, 42); */
+}
+.Join-main-btn-class{
+    /*common버튼 크기가 7em이라 맞춰줌*/
+    width: 7em;
+    text-align: center;
+    margin: auto;
+    /* background-color: #fb4d4e; */
+}

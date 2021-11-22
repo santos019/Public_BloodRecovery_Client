@@ -1,0 +1,18 @@
+.Common-Button-class{
+    cursor: pointer;
+    background-color: rgb(256, 111, 113);
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    width: 7em;
+    height: 2.0em;
+    box-shadow: 4px 5px 5px 2px rgb(163, 163, 163);
+}
+.Common-Button-text-class{
+    padding-top: 4%;
+    
+}
+
+.Common-Button-class:hover{
+
+    background-color: rgb(256, 95, 95);
+}

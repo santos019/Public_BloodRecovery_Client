@@ -1,0 +1,104 @@
+.Login-find-container{
+
+    width: 970px;
+    height: 734px;
+    margin: auto;
+  
+}
+
+.Login-find-id-container{
+    float: left;
+    width: 45%;
+    height: 100%;
+    margin-left: 5%;
+
+}
+.Login-find-password-container{
+    float: left;
+    width: 45%;
+    height: 100%;
+    margin-right: 5%;
+
+}
+.Login-find-margin{
+
+    margin-top: 30%;
+    height: 50%;
+ 
+    border-right: 5px dotted #fb4d4e;
+}
+.Login-find-margin1{
+
+    margin-top: 30%;
+    height: 50%;
+
+ 
+}
+.Login-find-header{
+
+    width: 80%;
+    margin-left: 10%;
+    height: 15%;
+    border-bottom: solid 4px #fb4d4e;
+}
+.Login-find-context-id-container{
+    width: 90%;
+    height: 30%;
+    margin-right: 10%;
+    margin-top: 15%;
+
+}
+.Login-find-context-row{
+    width: 76%;
+    height: 20%;
+
+    margin: auto;
+    margin-bottom: 2%;
+    padding-top: 1%;
+}
+.Login-find-register-class{
+    float: left;
+    width: 15%;
+    margin-left: 2%;
+    border-radius: 6px;
+    height: auto;
+font-size: 15px;
+text-align: center;
+background-color: rgb(256, 111, 113);
+color: white;
+    cursor: pointer;
+}
+.Login-find-register-class:hover{
+    background-color: rgb(256, 95, 95);
+}
+.Login-find-register-name-class{
+    margin-bottom: 2px;
+}
+.Login-find-context-name{
+    float: left;
+    width: 37%;
+    text-align: right;
+ 
+    margin-right: 3%;
+}
+.Login-find-input{
+    float: left;
+    width: 40%;
+    
+}
+.Login-find2-input{
+    float: left;
+    width: 40%;
+    
+}
+.Login-find-btn-container{
+    width: 100%;
+  
+    margin-top: 15%;
+}
+.Login-find-btn-class{
+    margin: auto;
+    width: 27%;
+   
+    text-align: center;
+}

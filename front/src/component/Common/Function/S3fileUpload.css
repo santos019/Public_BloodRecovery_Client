@@ -1,0 +1,29 @@
+.S3fileUpload-container{
+
+    /* background-color: rgb(255, 238, 0); */
+    width: 100%;
+    height: 50px;
+    font-size: 11px;
+    
+}
+.S3fileUpload-header{
+
+    width: 100%;
+    height: 50px;
+    /* background-color: rgb(212, 25, 187); */
+}
+.S3fileUpload-body{
+
+    width: 90%;
+    height: 30px;
+    text-align: center;
+    /* background-color: chocolate; */
+    
+}
+.form-control{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(71, 71, 71);
+    
+    width: 60%;
+    height: 22px;
+}

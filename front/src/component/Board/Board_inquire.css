@@ -1,0 +1,276 @@
+.Board-inquire-container {
+  /* background-color: rgb(129, 129, 179); */
+  width: 970px;
+  height: 734px;
+  margin: auto;
+
+  /* background-color: aqua; */
+}
+.Board-inquire-nav-container {
+  float: left;
+  height: 8%;
+  width: 100%;
+  /* background-color: aqua; */
+  border-bottom: solid 4px #fb4d4e;
+  /* background-color: rgb(12, 74, 128); */
+}
+.Board-inquire-nav-class {
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 89%;
+  float: left;
+  /* background-color: antiquewhite; */
+}
+.Board-inquire-content-container {
+  width: 100%;
+  height: 92%;
+  float: left;
+  /* background-color: blue; */
+}
+.Board-inquire-content-class {
+  margin: auto;
+  /* background-color: rgb(155, 155, 155); */
+  width: 80%;
+  height: 90%;
+  /* height: 70%; */
+  padding-top: 3%;
+}
+
+.Board-inquire-goback-bntimg-class {
+  margin-top: 8%;
+  margin-left: 10%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  /* background-color: blueviolet; */
+}
+.Board-inquire-nav-goback {
+  width: 8%;
+  height: 100%;
+  /* background-color: coral; */
+  float: left;
+}
+.Board-inquire-card-class {
+  width: 100%;
+  float: left;
+  height: auto;
+  /* background-color: darkgoldenrod; */
+  border: 2px solid #fb4d4e;
+  border-radius: 50px 50px 50px 50px;
+}
+.Board-inquire-card-total {
+  margin: auto;
+  width: 90%;
+}
+.Board-inquire-card-nav-class {
+  width: 100%;
+  height: 50px;
+  border-bottom: solid 4px #fb4d4e;
+  /* background-color: rgba(0, 0, 255, 0.075); */
+}
+.Board-inquire-card-title-class {
+  float: left;
+  margin-top: 3%;
+  width: 75%;
+  /* background-color: aqua; */
+  font-size: 16px;
+}
+.Board-inquire-card-data-class {
+  float: left;
+  margin-top: 3%;
+  margin-left: 10%;
+  width: 13%;
+  /* background-color: aquamarine; */
+  font-size: 16px;
+}
+
+.Board-inquire-card-info-class {
+  float: left;
+  width: 100%;
+  height: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  /* background-color: rgb(168, 85, 60); */
+}
+.Board-inquire-card-info-location {
+  width: 10%;
+  float: left;
+  margin-top: 0.7%;
+  height: 30px;
+  margin-left: 2%;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 14px;
+  /* background-color: #fed4d4; */
+}
+.Board-inquire-card-info-bloodtype {
+  width: 10%;
+  float: left;
+  margin-top: 0.7%;
+  height: 30px;
+  margin-left: 2%;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 17px;
+  /* background-color: #fed4d4; */
+  color: #fb4d4e;
+  text-align: center;
+}
+.Board-inquire-card-context-class {
+  padding-top: 1%;
+  padding-bottom: 10%;
+  margin: auto;
+  height: auto;
+  width: 100%;
+  font-size: 16px;
+  float: left;
+  word-wrap:break-word; word-break:break-all;
+ 
+
+
+}
+.Board-inquire-card-context-classpre{
+ 
+  white-space:pre-line;
+  
+
+
+}
+.Board-inquire-card-writer-container {
+  float: right;
+  margin-top: 0%;
+  width: 17%;
+  height: 80%;
+  /* background-color: #fb4d4e; */
+}
+.Board-inquire-card-writer-icon {
+  float: left;
+  margin-top: 0%;
+  height: 80%;
+  width: 30%;
+  /* background-color: aqua; */
+}
+.Board-inquire-card-writername-class {
+  margin-top: 5%;
+  float: left;
+  /* background-color: blue; */
+  width: 70%;
+}
+.Board-inquire-card-footer-class {
+  height: 50px;
+  /* background-color: blueviolet; */
+}
+.Board-inquire-card-footer-status {
+  margin: auto;
+  height: 70%;
+  width: 10%;
+  border-radius: 8px 8px 8px 8px;
+  background-color: #fed4d4;
+}
+.Board-inquire-footer-container {
+  width: 100%;
+  float: left;
+  height: 40%;
+  margin-top: 3%;
+  /* background-color: rgb(55, 0, 255); */
+}
+
+.Board-inquire-card-footer-statueIMG {
+  float: left;
+  width: 25px;
+  margin-top: 5px;
+}
+.Board-inquire-card-footer-statustext {
+  float: left;
+  font-size: 13px;
+  margin-top: 6px;
+}
+.Board-inquire-footer-applicant {
+  float: left;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  /* border-top: 1px solid rgb(91, 92, 91); */
+  color: #fb4d4e;
+}
+.Board-inquire-footer-mypost {
+  width: 100%;
+  height: 15%;
+  /* background-color: #941515; */
+  font-size: 17px;
+}
+.Board-inquire-footer-repost {
+  width: 8%;
+  /* background-color: rgb(158, 93, 8); */
+  float: right;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+.Board-inquire-footer-delete {
+  width: 8%;
+  /* background-color: rgb(190, 182, 170); */
+  float: right;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+
+.Board-inquire-default-footer-container {
+  float: left;
+  width: 90%;
+  height: 30%;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* background-color: #fb4d4e; */
+}
+.Board-inquire-default-footer-btn-container {
+  width: 100%;
+  height: 25%;
+  float: inline-start;
+  /* background-color: cadetblue; */
+}
+.Board-inquire-default-footer-btn-class {
+  width: 20%;
+  height: 100%;
+  margin: auto;
+}
+.Board-inquire-default-footer-info1-class {
+  height: 8%;
+  margin-top: 2%;
+  float: left;
+  width: 100%;
+  /* background-color: blueviolet; */
+  text-align: center;
+  font-size: 11px;
+  color: rgb(0, 0, 0);
+}
+.Board-inquire-default-footer-info2-class {
+  height: 12%;
+  float: left;
+  width: 100%;
+  /* background-color: antiquewhite; */
+  text-align: center;
+  color: #fb4d4e;
+}
+.Board-inquire-card-context-img-class {
+  width: 100%;
+  height: 10%;
+  padding-bottom: 2%;
+  /* background-color: red; */
+}
+.Board-inquire-cardset-img {
+  width: 200px;
+
+  /* background-color: rgb(63, 158, 158); */
+}
+.Board-inquire-card-context-margin {
+  width: 200px;
+  margin: auto;
+}
+.Board-card-nav-userstatus-p-class-inquire {
+  margin-top: -25%;
+  margin-left: 10%;
+  font-size: 16px;
+}
+.Board-card-nav-userstatus-p-class-inquire2 {
+  /* background-color: #941515; */
+  margin-top: -20%;
+  font-size: 16px;
+}
